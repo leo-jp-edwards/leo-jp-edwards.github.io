@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a London based software engineer, currently working at a London based cybersecurity startup called [Risk Ledger](). We have the aim of securing the global supply chain by building the new gold standard of supply chain security platforms.  
+I am a London based software engineer, currently working at a London based cybersecurity startup called [Risk Ledger](https://riskledger.com/). We have the aim of securing the global supply chain by building the new gold standard of supply chain security platforms.  
 
-I have previously worked as a data engineer at [Carnall Farrar]() working with the NHS on data projects, in particular the London response to Covid. I was further responsible for building on the data and analytics offering of the company which meant building a "data lakehouse" of all inpatient, outpatient, emergency and ward data for the last 5 years. This data was made available to the wider company through an intuitive UI and later through a SQL interface. The solution was built on Hive, Athena, Apache Parquet and an Airflow orchestrator.
+I have previously worked as a data engineer at [Carnall Farrar](https://www.carnallfarrar.com/) working with the NHS on data projects, in particular the London response to Covid. I was further responsible for building on the data and analytics offering of the company which meant building a "data lakehouse" of all inpatient, outpatient, emergency and ward data for the last 5 years. This data was made available to the wider company through an intuitive UI and later through a SQL interface. The solution was built on Hive, Athena, Apache Parquet and an Airflow orchestrator.
 
 Before CF I worked at an undisclosed hedge fund as a data engineer and a logistics company as a data scientist.
 
