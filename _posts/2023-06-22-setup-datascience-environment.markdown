@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up a Data Science Environment in 5 minutes"
-date: 2023-06-22 17:00:00 +0000
+date: 2023-06-22 12:00:00 +0000
 categories: python data guide
 ---
 One of the key steps to any data science project is getting yourself set up with a well organised environment. Many guides start by just pip installing all the required dependencies and leave the reader to sort out the complete mess this leaves of your global python environment. 
@@ -18,11 +18,9 @@ Assuming you wish to track this project through git and github the first step is
 
 Clone this repo to your favourite directory (or the one that is most convenient).
 
-Install [Poetry](https://python-poetry.org/)
+Install [Poetry](https://python-poetry.org/).
 
-Run `poetry init` 
-
-You will be confronted with a series of settings. These are not hugely important as they just determine what your `pyproject.toml` file will look like and that can be editted at any time.
+Run `poetry init`. You will be confronted with a series of settings. These are not hugely important as they just determine what your `pyproject.toml` file will look like and that can be editted at any time.
 
 I usually just skip through them and forget. 
 
